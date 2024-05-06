@@ -1,9 +1,12 @@
 # NLP-sentence-embeddings
 
-Highlights a series of trade-off and optimization experiments to take into consideration when using sentence encoder models to predict essay scores.
+Highlights a series of optimization experiments to take into consideration when using sentence encoder models to predict essay scores.
 
-- A words / accuracy tradeoff notebook can be found [here.](words_tradeoff.ipynb)
-- A test size notebook can be found [here.](optimum_test_size.ipynb)
-- A misspellings approaches notebook can be found [here.](misspellings_approaches.ipynb)
+The following topics are addressed:
+
+- [Word numbers](words_tradeoff.ipynb)
+- [Test size](optimum_test_size.ipynb)
+- [Misspellings approaches](misspellings_approaches.ipynb)
+- [Class imbalance approaches](class_imbalance.ipynb)
 
 <br>
