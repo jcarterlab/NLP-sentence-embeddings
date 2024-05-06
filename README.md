@@ -1,4 +1,4 @@
-# NLP-sentence-embeddings
+# NLP-sentence-encoders
 
 Highlights a series of optimization experiments to take into consideration when using sentence encoder models to predict essay scores.
 
