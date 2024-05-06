@@ -4,7 +4,7 @@ Highlights a series of optimization experiments to take into consideration when 
 
 The following topics are addressed:
 
-- [Words / accuracy tradeoff](words_tradeoff.ipynb)
+- [Words per essay](words_tradeoff.ipynb)
 - [Test size optimization](optimum_test_size.ipynb)
 - [Misspellings approaches](misspellings_approaches.ipynb)
 - [Class imbalance approaches](class_imbalance.ipynb)
