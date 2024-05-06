@@ -4,8 +4,8 @@ Highlights a series of optimization experiments to take into consideration when 
 
 The following topics are addressed:
 
-- [Word numbers](words_tradeoff.ipynb)
-- [Test size](optimum_test_size.ipynb)
+- [Words / accuracy tradeoff](words_tradeoff.ipynb)
+- [Test size optimization](optimum_test_size.ipynb)
 - [Misspellings approaches](misspellings_approaches.ipynb)
 - [Class imbalance approaches](class_imbalance.ipynb)
 
